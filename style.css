@@ -145,6 +145,11 @@ body
     margin: 100px 0 50px 0;
 }
 
+.error img
+{
+    width: 30%;
+}
+
 @media screen and (max-width: 460px)
 {
     .search input
